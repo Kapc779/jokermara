@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:11
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:27781
+#EXT-X-PROGRAM-DATE-TIME:2020-09-12T12:09:09Z
+#EXTINF:10.000,
+http://jokertvlive.buzz/யுவராணி/ts.php?ts=http://89.187.169.200:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/2020/09/12/12/09/09-10000.ts
+#EXTINF:10.000,
+http://jokertvlive.buzz/யுவராணி/ts.php?ts=http://89.187.169.200:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/2020/09/12/12/09/19-10000.ts
+#EXTINF:10.000,
+http://jokertvlive.buzz/யுவராணி/ts.php?ts=http://89.187.169.200:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/2020/09/12/12/09/29-10000.ts
+#EXTINF:10.000,
+http://jokertvlive.buzz/யுவராணி/ts.php?ts=http://89.187.169.200:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/2020/09/12/12/09/39-10000.ts
